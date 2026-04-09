@@ -9,5 +9,7 @@
     <a href = "p1.php"><button>Przykład 1</button</a>
     <a href = "p2.php"><button>Przykład 2</button</a>
     <a href = "p3.php"><button>Przykład 3</button</a>
+    <a href = "p4_formularz.php"><button>P4-formularz</button</a>
+    <a href = "p5_formularz.php"><button>P5-formularz</button</a>
 </body>
 </html>

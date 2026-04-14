@@ -12,5 +12,7 @@
     <a href = "p4_formularz.php"><button>P4-formularz</button</a>
     <a href = "p5_formularz.php"><button>P5-formularz</button</a>
     <a href = "p6.php"><button>P6</button</a>
+    <a href = "p7.php"><button>P7_Kalkulator</button</a>
+    <a href = "p8.php"><button>P8_CzyPierwsza</button</a>
 </body>
 </html>

@@ -15,5 +15,8 @@
     <a href = "p7.php"><button>P7_Kalkulator</button</a>
     <a href = "p8.php"><button>P8_CzyPierwsza</button</a>
     <a href = "p9_szukaj.php"><button>P9_SzukajWyraz</button</a>
+    <a href = "p10_zamiana.php"><button>P10_PodmianaWyrazu</button</a>
+    <a href = "p11_palindrom.php"><button>P11_Palindrom</button</a>
+    <a href = "p12_explode.php"><button>P12_Explode</button</a>
 </body>
 </html>

@@ -14,5 +14,6 @@
     <a href = "p6.php"><button>P6</button</a>
     <a href = "p7.php"><button>P7_Kalkulator</button</a>
     <a href = "p8.php"><button>P8_CzyPierwsza</button</a>
+    <a href = "p9_szukaj.php"><button>P9_SzukajWyraz</button</a>
 </body>
 </html>

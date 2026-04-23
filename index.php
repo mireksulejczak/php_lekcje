@@ -18,5 +18,9 @@
     <a href = "p10_zamiana.php"><button>P10_PodmianaWyrazu</button</a>
     <a href = "p11_palindrom.php"><button>P11_Palindrom</button</a>
     <a href = "p12_explode.php"><button>P12_Explode</button</a>
+    <a href = "p13_cw1.php"><button>P13_cw1</button</a>
+    <a href = "p14_cw2.php"><button>P14_cw2</button</a>
+    <a href = "p15_cw3.php"><button>P15_cw3</button</a>
+    <a href = "p16_cw4.php"><button>P15_cw3</button</a>
 </body>
 </html>

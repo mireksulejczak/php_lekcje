@@ -21,6 +21,10 @@
     <a href = "p13_cw1.php"><button>P13_cw1</button</a>
     <a href = "p14_cw2.php"><button>P14_cw2</button</a>
     <a href = "p15_cw3.php"><button>P15_cw3</button</a>
-    <a href = "p16_cw4.php"><button>P15_cw3</button</a>
+    <a href = "p16_cw4.php"><button>P16_cw4</button</a>
+    <a href = "p17_funkcje1.php"><button>P17_funkcje1</button</a>
+    <a href = "p18_funkcje2.php"><button>P18_funkcje2</button</a>
+    <a href = "p19_funkcje3.php"><button>P19_funkcje3</button</a>
+    <a href = "p20_Kliker.php"><button>P20_Kliker</button</a>
 </body>
 </html>

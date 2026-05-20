@@ -26,5 +26,7 @@
     <a href = "p18_funkcje2.php"><button>P18_funkcje2</button</a>
     <a href = "p19_funkcje3.php"><button>P19_funkcje3</button</a>
     <a href = "p20_Kliker.php"><button>P20_Kliker</button</a>
+    <a href = "p21.php"><button>P21_anagramy</button</a>
+    <a href = "p22_RowKwad.php"><button>P22_RównanieKwadratowe</button</a>
 </body>
 </html>

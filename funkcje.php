@@ -21,4 +21,23 @@
 
         return $a;
     }
+
+    function czyAnagramy($txt1, $txt2)
+    {
+        trim($txt1);
+        trim($txt2);
+        if(strlen($txt) != strlen($txt2))
+            return false;
+
+        $txt1_tab = str_split($txt1);
+        $txt2_tab = str_split($txt2);
+
+        sort($txt1_tab);
+        sort($txt2_tab);
+        if($txt1_tab == $txt2_tab)
+            return true;
+        else
+            return false;
+
+    }
 ?>

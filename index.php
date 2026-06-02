@@ -28,5 +28,10 @@
     <a href = "p20_Kliker.php"><button>P20_Kliker</button</a>
     <a href = "p21.php"><button>P21_anagramy</button</a>
     <a href = "p22_RowKwad.php"><button>P22_RównanieKwadratowe</button</a>
+    <a href = "p23_tab1.php"><button>P23_Tablice1</button</a>
+    <a href = "p24_date1.php"><button>P24_time1</button</a>
+    <a href = "p25_date2.php"><button>P25_time2</button</a>
+    <a href = "p26_date3.php"><button>P26_time3</button</a>
+    <a href = "p27_assoc1.php"><button>P27_assoc1</button</a>
 </body>
 </html>

@@ -33,5 +33,7 @@
     <a href = "p25_date2.php"><button>P25_time2</button</a>
     <a href = "p26_date3.php"><button>P26_time3</button</a>
     <a href = "p27_assoc1.php"><button>P27_assoc1</button</a>
+    <a href = "p28_bd_1.php"><button>P28_BD1</button</a>
+    <a href = "p29_bd_2.php"><button>P29_BD2</button</a>
 </body>
 </html>
